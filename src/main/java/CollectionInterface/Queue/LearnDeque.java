@@ -17,6 +17,8 @@ public class LearnDeque {
         System.out.println(arrayd.pollLast());
         System.out.println(arrayd.peekFirst());
         System.out.println(arrayd.peekLast());
+
+
     }
 
 }
